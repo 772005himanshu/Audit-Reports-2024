@@ -275,6 +275,7 @@ Most simply put, the protocol's core invariants is broken.
     }
 
 ```
+</details>
 
 
 Place the following into `TSwapPool.t.sol`.
