@@ -62,7 +62,7 @@ We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate
 
 # Audit Details 
 
-- Commit Hash: 22bbbb2c47f3f2b78c1b134590baf41383fd354f
+- Commit Hash: e643a8d4c2c802490976b538dd009b351b1c8dda
 - In Scope:
 ## Scope 
 
